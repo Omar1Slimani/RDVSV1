@@ -570,10 +570,6 @@
                             <div class="info-title">Adresse</div>
                             <div class="info-value">${nd.ADRESSE || 'Non spécifié'}</div>
                         </div>
-                            <div class="info-card">
-                            <div class="info-title">Commentaire</div>
-                            <div class="info-value">${nd.Raison || 'Non spécifié'}</div>
-                        </div>
                     </div>
                     
                     <div class="section-title">Saisie des Informations de Clôture</div>
